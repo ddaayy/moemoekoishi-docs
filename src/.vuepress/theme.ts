@@ -6,13 +6,13 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "未琉（MiruClay）",
+    url: "https://space.bilibili.com/19126524",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "iconify",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "eyes.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 

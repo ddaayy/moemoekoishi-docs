@@ -5,8 +5,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "恋萌萌Bot",
+  description: "恋萌萌Bot文档指南",
 
   theme,
 
